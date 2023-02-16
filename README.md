@@ -1,6 +1,6 @@
-<h3>I'm a junior web developer 👨‍💻</h3>
+<h3>I'm a junior web developer 👨‍💻 and CE major / Rajamangala University of Technology Srivijaya.</h3>
 
-- 🔭 I’m currently working on **SCG Web application project**
+- 🔭 I’m currently working on **Web application at SCG.**
 
 - 🌱 I’m currently learning **React, Next.js, Tailwind and web security.**
 
