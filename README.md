@@ -1,6 +1,6 @@
 <h3>I'm a junior web developer 👨‍💻 and CE major / Rajamangala University of Technology Srivijaya.</h3>
 
-- 🔭 I’m currently working as Full Stack Develop on **Web application at SCG.**
+- 🔭 I’m currently working as **Full Stack Developer on Web application at SCG.**
 
 - 🌱 I’m currently learning **React, Next.js, Tailwind and web security.**
 
