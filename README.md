@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as **Full Stack Developer on Web application at SCG.**
 
-- 🌱 I’m currently learning **React, Next.js, Tailwind and web security.**
+- 🌱 I’m currently learning **React, Tailwind, Cypress and web security.**
 
 - 📫 How to reach me **pannavach@outlook.com**
 
