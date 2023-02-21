@@ -83,6 +83,6 @@
 
 <p>
     <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=pnvttk&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=pnvttk&exclude_repo=yolov5-vehicle-detected&show_icons=true&locale=en&layout=compact"
         alt="pnvttk" />
 </p>
