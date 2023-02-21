@@ -86,3 +86,9 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=pnvttk&exclude_repo=yolov5-vehicle-detected&hide=html&show_icons=true&locale=en&layout=compact&langs_count=6"
         alt="pnvttk" />
 </p>
+
+<p>
+    <img align="left"
+        src="https://github-readme-stats-pnvttk.vercel.app/api/top-langs?username=pnvttk&exclude_repo=yolov5-vehicle-detected&hide=html&show_icons=true&locale=en&layout=compact&langs_count=6"
+        alt="pnvttk" />
+</p>
