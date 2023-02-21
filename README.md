@@ -93,8 +93,3 @@
         src="https://github-readme-stats-pnvttk.vercel.app/api/top-langs?username=pnvttk&hide=html&show_icons=true&locale=en&layout=compact&langs_count=6"
         alt="pnvttk" />
 </p>
-<p>
-    <img align="left"
-        src="https://github-readme-stats-pnvttk.vercel.app/api/top-langs?username=pnvttk&hide=html&show_icons=true&locale=en&layout=compact&langs_count=10"
-        alt="pnvttk" />
-</p>
