@@ -93,7 +93,8 @@
         src="https://github-readme-stats-pnvttk.vercel.app/api/top-langs?username=pnvttk&hide=html&show_icons=true&locale=en&layout=compact&langs_count=6"
         alt="pnvttk" />
 </p>
-<br />
-<div>
+
+&nbsp;
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnvttk&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pnvttk" /> </p>
-<div>
+
