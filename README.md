@@ -8,8 +8,6 @@
 
 - ⚡ Fun fact **I had learned Computer Graphic Design and Video Editing.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnvttk&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pnvttk" /> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -95,3 +93,4 @@
         src="https://github-readme-stats-pnvttk.vercel.app/api/top-langs?username=pnvttk&hide=html&show_icons=true&locale=en&layout=compact&langs_count=6"
         alt="pnvttk" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnvttk&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pnvttk" /> </p>
