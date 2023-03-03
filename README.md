@@ -1,14 +1,14 @@
-<h3>I'm a junior web developer 👨‍💻 and CE major / Rajamangala University of Technology Srivijaya.</h3>
+# Hi I'm Pannavach Tratongkam 🔥
 
-- 🔭 I’m currently working as **Full Stack Developer on Web application at SCG.**
+I am a web developer. I am passionate about new technologies 🧑🏻‍💻
 
-- 🌱 I’m currently learning more about **React, Node.js and web security.**
+- 🔭 I’m currently working as a full-stack developer at SCG.
+
+- 🌱 I’m currently learning more about React, Node.js and web security.
 
 - 📫 How to reach me, **pannavach@outlook.com**
 
-<!-- - ⚡ Fun fact **I had learned Computer Graphic Design and Video Editing.** -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnvttk&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pnvttk" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
