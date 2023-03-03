@@ -2,7 +2,7 @@
 
 I am a web developer. I am passionate about new technologies 🧑🏻‍💻
 
-- 🔭 I’m currently working as a full-stack developer at SCG.
+- 🔭 I’m currently internship as a full-stack developer at SCG.
 
 - 🌱 I’m currently learning more about React, Node.js and web security.
 
