@@ -2,12 +2,13 @@
 
 I am a web developer. I am passionate about new technologies 🧑🏻‍💻
 
+<!---
 - 🔭 I’m currently internship as a full-stack developer at SCG.
+--->
 
-- 🌱 I’m currently learning more about React, Node.js and web security.
+- 🌱 I’m currently learning more about React, C# and ASP.NET
 
-- 📫 How to reach me, **pannavach@outlook.com**
-
+- 📫 How to reach me, **pannavach.t@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
