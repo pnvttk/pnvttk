@@ -1,10 +1,4 @@
-# Hi I'm Pannavach Tratongkam 🔥
-
-I am a web developer. I am passionate about new technologies 🧑🏻‍💻
-
-<!---
-- 🔭 I’m currently internship as a full-stack developer at SCG.
---->
+I'm a web developer. I am passionate about new technologies 🧑🏻‍💻
 
 - 🌱 I’m currently learning more about React, C# and ASP.NET
 
