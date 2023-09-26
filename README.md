@@ -1,6 +1,6 @@
-I'm a web developer. I am passionate about new technologies 🧑🏻‍💻
+I'm a software engineer and web developer.
 
-- 🌱 I’m currently learning more about React, C# and ASP.NET
+- 🌱 I’m currently learning more about React, C# and Go
 
 - 📫 How to reach me, **pannavach.t@outlook.com**
 
