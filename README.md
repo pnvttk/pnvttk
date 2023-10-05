@@ -1,7 +1,5 @@
 I'm a software engineer and web developer.
 
-- 🌱 I’m currently learning more about React, C# and Go
-
 - 📫 How to reach me, **pannavach.t@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
