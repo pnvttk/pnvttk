@@ -1,5 +1,6 @@
 I'm a software engineer and web developer.
 
+- Have experience in React and C# .NET web development and a little of React Native.
 - 📫 How to reach me, **pannavach.t@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
