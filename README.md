@@ -3,7 +3,7 @@ I'm a software engineer and web developer.
 - Have experience in React TypeScript and C# .NET web development and a little of React Native.
 - 📫 How to reach me, **pannavach.t@outlook.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -74,7 +74,7 @@ I'm a software engineer and web developer.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
             alt="photoshop" width="40" height="40" />
     </a> -->
-</p>
+</p> -->
 
 <!-- public repo only -->
 <!-- <p>
@@ -83,8 +83,9 @@ I'm a software engineer and web developer.
         alt="pnvttk" />
 </p> -->
 
-<p>
+<!-- deploy at vercel -->
+<!-- <p>
     <img align="left"
         src="https://github-readme-stats-pnvttk.vercel.app/api/top-langs?username=pnvttk&hide=html&show_icons=true&locale=en&layout=compact&langs_count=6"
         alt="pnvttk" />
-</p>
+</p> -->
