@@ -3,7 +3,7 @@ I’m currently a Software Engineer. Have experience in React, TypeScript and C#
 - Programming Language: JavaScript, TypeScript, C#, HTML, CSS, SQL, PHP, C, GO
 - Framework, Library: React, Tailwind CSS, .NET, Angular (Basic)
 - Others: Git, Sourcetree, Dbeaver, MySQL, Linux (Basic), Docker (Basic)
-- 📫 How to reach me, **pannavach.t@outlook.com**
+- How to reach me, **pannavach.t@gmail.com**
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
