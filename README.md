@@ -1,7 +1,7 @@
-I’m currently a Software Engineer. Have experience in React, TypeScript and C# .NET web development and a little of React Native.
+I’m a junior software engineer. Have experience in React, React Native, TypeScript and C# .NET Core web development and currently learn go.
 
 - Programming Language: JavaScript, TypeScript, C#, HTML, CSS, SQL, PHP, C, GO
-- Framework, Library: React, Tailwind CSS, .NET, Angular (Basic)
+- Framework, Library: React,React Native, Tailwind CSS, .NET Core
 - Others: Git, Sourcetree, Dbeaver, MySQL, Linux (Basic), Docker (Basic)
 - How to reach me, **pannavach.t@gmail.com**
 
