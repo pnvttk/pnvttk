@@ -3,7 +3,7 @@ I’m a junior software engineer. Have experience in React, React Native, TypeSc
 - Programming Language: JavaScript, TypeScript, C#, HTML, CSS, SQL, PHP, C, GO
 - Framework, Library: React,React Native, Tailwind CSS, .NET Core
 - Others: Git, Sourcetree, Dbeaver, MySQL, Linux (Basic), Docker (Basic)
-- How to reach me, **pannavach.t@gmail.com**
+- How to reach me, **pannavach@gmail.com**
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
